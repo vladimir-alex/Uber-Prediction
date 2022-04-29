@@ -1,4 +1,4 @@
-# Google-Play
+# Uber Fare Prediction
 
 ## About Dataset
 
